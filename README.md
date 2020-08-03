@@ -16,9 +16,9 @@
 
 > 👯 I’m single and lonely,but lucky and plenitude.
 
-> 🤔 I’m looking for help with Google`s dad bod...🤪
+> 🤔 I’m looking for help with me...🤪
 
-> 💬 Ask me about how technology heavyweights。
+> 💬 Thinking about how to become a tech master.
 
 > ⚡ Fun fact: ...
 
