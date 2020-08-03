@@ -10,7 +10,10 @@
 + [X] ☕️**Java**
 + [ ] 🧩**Kotlin**
 
+![ZhihaoQuinn github stats](https://github-readme-stats.vercel.app/api?username=ZhihaoQuinn&show_icons=true)
+<!--
 ![ZhihaoQuinn github stats](https://github-readme-stats.vercel.app/api?username=ZhihaoQuinn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
 
 
 > 🔭 Suddenly found a lot of interesting technology, please forgive me.HiaHiaHia...
