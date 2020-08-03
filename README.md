@@ -3,12 +3,12 @@
 <!--
 **ZhihaoQuinn/ZhihaoQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-+ [X] 🤖Kubernetes
-+ [X] 👽Docker
-+ [ ] 🤘Angular
-+ [ ] 👉Golang
-+ [X] 👀Java
-+ [ ] 🧠Kotlin
++ [X] 🕸Kubernetes
++ [X] 🐳Docker
++ [ ] ⛑Angular
++ [ ] 🐭Golang
++ [X] ☕️Java
++ [ ] 🧩Kotlin
 
 > 🔭 Suddenly found a lot of interesting technology, please forgive me.HiaHiaHia...
 
