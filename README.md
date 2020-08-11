@@ -4,11 +4,11 @@
 -->
 + [X] 🕸**Kubernetes**
 + [X] 🐳**Docker**
-+ [ ] 🐭**Golang**
++ [X] 🐭**Golang**
 + [X] ☕️**Java**
-+ [ ] 🧩**Kotlin**
++ [ ] 🍬**Kotlin**
 + [ ] ⛑**Angular**
-+ [ ] 🔰**Vue**
++ [X] 🔰**Vue**
 
 <!--
 ![ZhihaoQuinn github stats](https://github-readme-stats.vercel.app/api?username=ZhihaoQuinn&show_icons=true&theme=buefy)
