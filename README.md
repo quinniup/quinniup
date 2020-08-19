@@ -5,6 +5,7 @@
 + [X] 🕸**Kubernetes**
 + [X] 🐳**Docker**
 + [X] 🐭**Golang**
++ [ ] 🦀**Rust**
 + [X] ☕️**Java**
 + [ ] 🍬**Kotlin**
 + [ ] ⛑**Angular**
