@@ -23,6 +23,6 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=quinniup&show_icons=true&theme=buefy" style="float: right;margin-top: -20%;" class="custom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhihaoQuinn&show_icons=true&theme=buefy" alt="Quinn's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quinniup&show_icons=true&theme=buefy" alt="Quinn's github stats" />
 </a>
 
