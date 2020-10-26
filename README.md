@@ -3,11 +3,12 @@
 + [X] 🕸**Kubernetes**
 + [X] 🐳**Docker**
 + [X] 🐭**Golang**
-+ [ ] 🦀**Rust**
 + [X] ☕️**Java**
++ [X] 🔰**Vue**
 + [ ] 🍬**Kotlin**
 + [ ] ⛑**Angular**
-+ [X] 🔰**Vue**
++ [ ] 🦀**Rust**
+
 
 > 🔭 Suddenly found a lot of interesting technology, please forgive me.HiaHiaHia...
 
