@@ -5,9 +5,9 @@
 + [X] 🐭**Golang**
 + [X] ☕️**Java**
 + [X] 🔰**Vue**
++ [ ] 🦀**Rust**
 + [ ] 🍬**Kotlin**
 + [ ] ⛑**Angular**
-+ [ ] 🦀**Rust**
 
 
 > 🔭 Suddenly found a lot of interesting technology, please forgive me.HiaHiaHia...
