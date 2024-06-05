@@ -4,9 +4,8 @@
 + [X] 🐳**Docker**
 + [X] 🐭**Golang**
 + [X] ☕️**Java**
-+ [x] 🔰**Vue**
 + [x] 🦀**Rust**
-+ [ ] ⛑**Angular**
++ [x] 🐦**Dart**
 
 
 > 🔭 Suddenly found a lot of interesting technology, please forgive me.HiaHiaHia...
