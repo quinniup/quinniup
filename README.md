@@ -10,7 +10,7 @@
 <br/>  
 
 
-## Skills  
+## 
 <table><tr><td valign="top" width="33%">
 
 
@@ -53,14 +53,7 @@
 </td></tr></table>  
 
 <br/>  
-
-
-
-  
-
-<br/>  
-
-
+ 
 ##
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=quinniup" />
