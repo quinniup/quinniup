@@ -57,7 +57,7 @@
 ##
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=quinniup" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=quinniup" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=quinniup&hide=javascript,html,css,java,c,c%2B%2B" />
 </div>
 <br/>  
 
